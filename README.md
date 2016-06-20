@@ -8,3 +8,5 @@ Popular Movies android app for project submission in android nanodegree program 
 <li>Content Providers</li>
 <li>MVP Architecture Implmentation</li>
 </ol>
+
+Api key is stored via gradle file , you need to add the movie database api key to built and run this app.
