@@ -49,7 +49,7 @@
                         android:layout_height="1dp"
                         android:layout_below="@+id/tv_movie_detail_frag_title"
                         android:layout_toRightOf="@+id/iv_movie_detail"
-                        android:background="#3f1f4f" />
+                        android:background="@color/line_dark" />
 
                     <ImageView
                         android:id="@+id/iv_icon_rating_movie_detail"

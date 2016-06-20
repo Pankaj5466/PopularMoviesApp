@@ -10,4 +10,6 @@
     <string name="tv_reviews">Reviews</string>
     <string name="image_poster">Image Poster</string>
     <string name="tumb_image_rating">Tumb Image Rating</string>
+    <string name="no_internet_error_message">Internet Not Available , Please turn on Mobile Data</string>
+    <string name="select_from_favourite_suggestion">Select Favourite from top menu to see favourite movies</string>
 </resources>

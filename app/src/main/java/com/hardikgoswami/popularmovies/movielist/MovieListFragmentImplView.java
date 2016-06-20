@@ -67,8 +67,8 @@ public class MovieListFragmentImplView extends Fragment implements iMovieListVie
         if (PopularMovieApplication.isNetworkStatusAvialable(mContext)) {
             updateAdapterData();
         } else {
-            showMessage("Internet Not Available , Please turn on Mobile Data");
-            showMessage("Select Favourite from top menu to see favourite movies");
+            showMessage(mContext.getString(R.string.no_internet_error_message));
+            showMessage(mContext.getString(R.string.select_from_favourite_suggestion));
         }
         return rootView;
     }
