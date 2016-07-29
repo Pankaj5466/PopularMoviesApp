@@ -1,0 +1,6 @@
+{
+  "name": "Popularmoviesapp",
+  "tagline": "Popular Movies Tabet App to  explore latest movies backed by data from The MovieDB API.",
+  "body": "# PopularMovies\r\nPopular Movies android app for project submission in android nanodegree program at udacity.\r\n\r\n<ol>\r\n<li>Consuming The Movie Database Api</li>\r\n<li>Material Design Implementation</li>\r\n<li>Multiscreen Tablet support</li>\r\n<li>Content Providers</li>\r\n<li>MVP Architecture Implmentation</li>\r\n</ol>\r\n\r\n## Api key is stored via gradle file , you need to add the movie database api key to built and run this app.\r\n\r\n# Screenshots \r\n<img src=\"blob/pm-home.png\" height=\"480\" width=\"270\">\r\n<img src=\"blob/pm-detail.png\" height=\"480\" width=\"270\">\r\n<br>\r\n## Download APK\r\n\r\n<a href=\"/blob/popularmovies.apk\" rel=\"Download APK\"><img src=\"blob/down_apk.png\" height=\"80\"></a>\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
